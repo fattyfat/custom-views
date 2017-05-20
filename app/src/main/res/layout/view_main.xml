@@ -1,0 +1,7 @@
+<fatty.test.testView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/testViewID"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fontFamily="sans-serif"
+    android:textColor="@android:color/background_light"
+    android:textSize="50dp"></fatty.test.testView>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="text">
+    &lt;big&gt;&lt;big&gt;Hello World!!&lt;/big&gt;&lt;/big&gt;&lt;&gt;br&lt;&gt;
+&lt;font color=\'#ff0000\'&gt;※注意！感謝你的注意！&lt;/font&gt;&lt;&gt;br&lt;&gt;
+\t\t\t\t\t\t哇~是擅長玩遊戲的朋友呢！&lt;&gt;br&lt;&gt;
+
+
+
+
+    </string>
+</resources>
