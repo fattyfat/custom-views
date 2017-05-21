@@ -9,3 +9,6 @@ practice custom views & canvas
 (有外框的textView)
 
 中間文字部分皆為canvas。
+
+App download >
+https://drive.google.com/open?id=0B0csiWXavBDHblBmcDAyNFdqVFU
